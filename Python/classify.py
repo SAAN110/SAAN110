@@ -1,1 +1,0 @@
-print("class of", 123 , "is", type(123))
