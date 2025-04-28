@@ -1,0 +1,15 @@
+# for i in range(2,11,2):
+#     print(i)
+# name= 'asadabbasnaqvi'
+# print(name[::-1])
+# for i in range(4):
+#     for s in range(i):
+#         print(" ", end="")
+#         for j in range(13 - i):
+#             print("*", end="")
+#             print("")
+def hi(name):
+    print("hello "+name+" bhosdike")
+hi("abbas")
+hi('addy')
+
